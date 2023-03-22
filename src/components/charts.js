@@ -57,13 +57,7 @@ export default function Charts() {
 
  <Col xl={4} lg={4}>
 
-                        <Card id="doughnutcard">
-                            <Card.Title className="py-3">
-                                <h6 className="m-0 font-weight-bold text-primary">Line Graph</h6></Card.Title>
-
-
-                            <LineChart className="mb-3 " />
-                        </Card>
+                     
 
 
 
